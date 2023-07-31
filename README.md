@@ -38,4 +38,4 @@
 若使用 GitHub 網頁進行 commit 會依次數扣分
 
 ## 作業連結
-- [GitHub]([https://YaWenWu1008.github.io/tomatoclock](https://github.com/YaWenWu1008/tomatoclock)https://github.com/YaWenWu1008/tomatoclock)
+- [GitHub](https://github.com/YaWenWu1008/tomatoclock)
